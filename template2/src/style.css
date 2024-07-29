@@ -14,7 +14,7 @@
 
 }
 .cou2{
-    background-image: url('../slide2.jpg');
+    background-image: url('../public/slide2.jpg');
     background-position:left;
     background-size: cover;
     height: 60vh;
