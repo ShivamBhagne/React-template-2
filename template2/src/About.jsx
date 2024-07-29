@@ -13,7 +13,7 @@ const About=(props)=>{
  <div className=" d-lg-flex   container">
            
             <div className="col-lg-6 mt-5">
-                <img src="./public/bg_page.jpg" style={{width:'90%'}} className="cust-img1" />
+                <img src="./bg_page.jpg" style={{width:'90%'}} className="cust-img1" />
             </div>
             <div className="col-lg-6  mt-5">
                 <h3>Our Story</h3>
@@ -36,7 +36,7 @@ const About=(props)=>{
             <div className="" >
 
                 <div>
-                    <img style={{width:"100%"}} src="./public/ourteam-1-1.jpg" alt="" />
+                    <img style={{width:"100%"}} src="./ourteam-1-1.jpg" alt="" />
                 </div>
                 <div className="p-4 bg-light text-dark">
                 <h3>Karen Rayn</h3>
@@ -46,7 +46,7 @@ const About=(props)=>{
             <div className="">
 
                 <div>
-                    <img style={{width:"100%"}} src="./public/ourteam-1-3.jpg" alt="" />
+                    <img style={{width:"100%"}} src="./ourteam-1-3.jpg" alt="" />
                 </div>
                 <div className="p-4 bg-light text-dark">
                 <h3>Fergusson</h3>
@@ -60,7 +60,7 @@ const About=(props)=>{
 
 
 <div className="container text-center">
-    <img src="./public/daimond.jpg" style={{
+    <img src="./daimond.jpg" style={{
         width:'15%'
     }}/>
     <h2>We’re committing to create the change
